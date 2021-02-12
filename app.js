@@ -3,4 +3,4 @@ let ladno = (args) => {
 }
 ladno("u1y4jtniwegi")
 const {yadayn} = require ("./server")
-console.log(yadayn(1, 3))
+console.log(yadayn(2, 5))
